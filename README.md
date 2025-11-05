@@ -62,7 +62,7 @@ bithealth-dp-q-mp
 
 3. Run each part:  
     1. **Python - Basic Data Processing**
-        1. Navigate to the project directory:
+        1. Navigate to first part directory:
            ```bash
             cd "1. Python - Basic Data Processing"
             ```
@@ -73,7 +73,7 @@ bithealth-dp-q-mp
         3. Execute all cells
         4. Check the filtered results in `filtered_patients.csv`
     2. **Querying – SQL for Patient Visit Insights**  
-        1. Navigate to the project directory:
+        1. Navigate to second part directory:
            ```bash
             cd "2. Querying – SQL for Patient Visit Insights"
             ```
@@ -87,7 +87,7 @@ bithealth-dp-q-mp
             ```
         4. Execute all cells
     3. **End-to-End Mini Project**
-        1. Navigate to the project directory:
+        1. Navigate to third part directory:
            ```bash
             cd "3. End-to-End Mini Project"
             ```
