@@ -77,7 +77,7 @@ bithealth-dp-q-mp
            ```bash
             cd "2. Querying – SQL for Patient Visit Insights"
             ```
-        2. Inspect the `query.txt`:
+        2. Inspect the SQL Query in `query.txt`:
             ```bash
             start query.txt
             ```
