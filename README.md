@@ -9,7 +9,7 @@ This project contains the solution for the Technical Test in the context of a ho
 3. End-to-End Mini Project  
     This part implements a FastAPI service that uses an LLM to recommend the most relevant hospital department based on a patient’s symptoms. It uses LangChain to communicate with the LLM and generate recommendations
 
-Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project]().
+Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/bithealth-dp-q-mp/blob/89527f24e90d03517fd7a24a7f506ec45ffc9328/assets/Bithealth%20AI%20Pre%20Test.pdf).
 
 ## 📁 Project Structure
 
@@ -106,3 +106,4 @@ bithealth-dp-q-mp
             ```bash
             start "http://127.0.0.1:8000/dashboard"
             ```
+            ![API Docummentation](https://github.com/verneylmavt/bithealth-dp-q-mp/blob/89527f24e90d03517fd7a24a7f506ec45ffc9328/assets/chrome_IaRDL2Jh3R.gif)
