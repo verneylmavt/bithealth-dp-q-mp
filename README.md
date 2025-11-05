@@ -2,11 +2,11 @@
 
 This project contains the solution for the Technical Test in the context of a hospital AI system. It consists of three parts:
 
-1. Python - Basic Data Processing  
+1. **Python - Basic Data Processing**  
     This part includes a Jupyter notebook for processing patient data. The notebook filters patient records based on age and symptom count, then outputs the results.
-2. Querying – SQL for Patient Visit Insights  
+2. **Querying – SQL for Patient Visit Insights**  
     This part writes an SQL query to retrieve patient visit insights based on given criteria. The query extracts the most recent visits to the Neurology department, where the patient is over 50 years old and has at least 3 recorded symptoms.
-3. End-to-End Mini Project  
+3. **End-to-End Mini Project**  
     This part implements a FastAPI service that uses an LLM to recommend the most relevant hospital department based on a patient’s symptoms. It uses LangChain to communicate with the LLM and generate recommendations
 
 Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/bithealth-dp-q-mp/blob/89527f24e90d03517fd7a24a7f506ec45ffc9328/assets/Bithealth%20AI%20Pre%20Test.pdf).
