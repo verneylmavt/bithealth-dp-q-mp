@@ -32,7 +32,7 @@ bithealth-dp-q-mp
 │     ├─ main.py                # Main application file
 │     └─ models.py              # Request/Response definitions
 │
-└─ requirements.txt            # Python deps
+└─ requirements.txt             # Python deps
 ```
 
 ## ⚙️ Local Setup
