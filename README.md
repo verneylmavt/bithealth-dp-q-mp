@@ -32,9 +32,7 @@ bithealth-dp-q-mp
 │     ├─ main.py                # Main application file
 │     └─ models.py              # Request/Response definitions
 │
-└─ assets/
-   └─ Bithealth AI Pre Test.pdf
-
+└─ requirements.txt            # Python deps
 ```
 
 ## ⚙️ Local Setup
