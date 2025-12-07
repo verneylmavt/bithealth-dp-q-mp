@@ -90,7 +90,7 @@ bithealth-dp-q-mp
          ```bash
           cd "3. End-to-End Mini Project"
          ```
-      2. Fill the required Google API Key in `.env`
+      2. Fill the required Google AI API key in `.env`
       3. Run the FastAPI app:
          ```bash
          uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
