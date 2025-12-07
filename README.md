@@ -53,8 +53,8 @@ bithealth-dp-q-mp
 2. Create environment and install dependencies:
 
    ```bash
-   conda create --name bithealth python=3.11
-   conda activate bithealth
+   conda create --name bithealth-dp-q-mp python=3.11
+   conda activate bithealth-dp-q-mp
 
    pip install -r requirements.txt
    ```
