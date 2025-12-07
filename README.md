@@ -95,13 +95,13 @@ bithealth-dp-q-mp
          ```bash
          uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
          ```
-      4. Make an API Call to `POST /recommend`:
+      4. Make an API call to `POST /recommend`:
          ```bash
          curl -X POST "http://localhost:8000/recommend" \
          -H "Content-Type: application/json" \
          -d '{"gender": "female", "age": 62, "symptoms": ["pusing", "mual", "sulit berjalan"]}'
          ```
-      5. Alternatively, open the API documentation and see it interactively:
+      5. Alternatively, open the API documentation to make an API call and interact with the app:
          ```bash
          start "http://127.0.0.1:8000/docs"
          ```
