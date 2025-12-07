@@ -103,6 +103,6 @@ bithealth-dp-q-mp
          ```
       5. Alternatively, open the API documentation and see it interactively:
          ```bash
-         start "http://127.0.0.1:8000/dashboard"
+         start "http://127.0.0.1:8000/docs"
          ```
          ![API Docummentation](https://github.com/verneylmavt/bithealth-dp-q-mp/blob/89527f24e90d03517fd7a24a7f506ec45ffc9328/assets/chrome_IaRDL2Jh3R.gif)
